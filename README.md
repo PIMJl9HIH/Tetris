@@ -1,2 +1,2 @@
 # Tetris
-Canvas practice (CodeDojo)
+Canvas practice (**CodeDojo**)
