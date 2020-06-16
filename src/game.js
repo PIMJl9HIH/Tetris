@@ -25,8 +25,6 @@ export default class Game {
     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
   ];
-  activePieceX = 0;
-  activePieceY = 0;
   activePiece = {
     x: 0,
     y: 0,
